@@ -28,7 +28,7 @@ Ojetivos específicos
 |1| Protoboard|
 
 # Procedimiento
-
+![](https://github.com/BENLLAMIN69/Informe-Laboratorio-N-3/blob/main/Ima/Captura%20de%20pantalla%202021-11-29%20181033.png)
 # Video
 
 # Conclusiones 
