@@ -30,6 +30,7 @@ Ojetivos específicos
 # Procedimiento
 Implemente el circuito que se presenta en la figura
 ![](https://github.com/BENLLAMIN69/Informe-Laboratorio-N-3/blob/main/Ima/Captura%20de%20pantalla%202021-11-29%20181033.png)
+
 Mida cada una de las corrientes de malla y anote los resultados en la tabla
 
 - Resolución simulada
