@@ -20,8 +20,8 @@ Ojetivos específicos
 
 |Cantidad| Material o Equipo|
 |--------|------------------|
-|1| Fuente de Voltaje de C.D.|
-|1| Multímetro Digital|
+|2| Fuente de Voltaje de C.D.|
+|2| Multímetro Digital|
 |1| Resistor de 1.8 kΩ|
 |1| Resistor de 470 Ω|
 |1| Resistor de 1.5 kΩ|
