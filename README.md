@@ -53,3 +53,9 @@ Resultados obtenidos para el circuito.
 # Video
 
 # Conclusiones 
+
+# Bibliografía
+
+- Floyd, T. (2007). Principios de circuitos eléctricos (8a. Ed.) (8a ed.). Naucalpan de Juárez: Pearson Educación.
+- McAllister, W. (2017). El método del voltaje en los nodos. khan Academy. Este artículo está bajo la licencia CC BY-NC-SA 4.0. Recuperado de: https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method#:~:text=El%20m%C3%A9todo%20del%20voltaje%20en%20los%20nodos%20es%20un%20m%C3%A9todo,de%20Kirchhoff%20de%20la%20corriente.&text=El%20m%C3%A9todo%20del%20voltaje%20en%20los%20nodos%20es%20uno%20de,de%20la%20corriente%20de%20malla).
+
