@@ -40,7 +40,7 @@ Mida cada una de las corrientes de malla y anote los resultados en la tabla
 - Resolución analitica 
 
 - Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.
-
+![](https://github.com/BENLLAMIN69/Informe-Laboratorio-N-3/blob/main/Ima/Captura%20de%20pantalla%202021-11-29%20194339.png)
 Resultados obtenidos para el circuito.
 
 |Nodo| Resultados Analíticos| Resultados Experimentales| Resultados Simulados|
