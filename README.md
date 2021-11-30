@@ -14,6 +14,8 @@ Ojetivos específicos
 
 # Marco teórico 
 
+![](https://github.com/BENLLAMIN69/Informe-Laboratorio-N-3/blob/main/Ima/Blank%20diagram.jpeg)
+
 - Material y equipo requerido
 
 |Cantidad| Material o Equipo|
