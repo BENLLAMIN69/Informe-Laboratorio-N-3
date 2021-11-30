@@ -54,10 +54,10 @@ Resultados obtenidos para el circuito.
 
 # Conclusiones 
 
-Para el análisis de este circuito se usó todos los conocimientos básicos que se han aprendido durante este periodo de tiempo.
-Dado el marco teórico se pudo aplicar el método de análisis de nodos eficientemente, donde con la ayuda de laboratorios virtuales se comprobó los resultados del experimento práctico.
-Al analizar el circuito y al proceder hacer los cálculos se verifico que el número de ecuaciones es igual a la cantidad de incógnitas requeridas, en este caso las corrientes.
-Realizado el análisis, se experimentó y se comprobó que el método del voltaje en nodos está basado en la ley de la corriente de Kirchhoff. 
+1. Para el análisis de este circuito se usó todos los conocimientos básicos que se han aprendido durante este periodo de tiempo.
+2. Dado el marco teórico se pudo aplicar el método de análisis de nodos eficientemente, donde con la ayuda de laboratorios virtuales se comprobó los resultados del experimento práctico.
+3. Al analizar el circuito y al proceder hacer los cálculos se verifico que el número de ecuaciones es igual a la cantidad de incógnitas requeridas, en este caso las corrientes.
+4. Realizado el análisis, se experimentó y se comprobó que el método del voltaje en nodos está basado en la ley de la corriente de Kirchhoff. 
 
 # Bibliografía
 
